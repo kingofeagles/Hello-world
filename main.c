@@ -2,6 +2,7 @@
 
 int main()
 {
-	print("hello world5");
+	print("hello world2");
+	print("add 33");
 	return 0;
 }
