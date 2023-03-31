@@ -1,0 +1,3 @@
+[submodule "sub-hello"]
+	path = sub-hello
+	url = git@github.com:kingofeagles/sub-hello.git
